@@ -150,6 +150,36 @@ _Desventajas:_
 
 - Debido a que estos riesgos tiene un impacto monetario considerable para el bolsillo del interesado, se debe tener un constante control de los presupuestos.
 
+## Diagrama de Casos de Uso - UML
+
+Son una herramienta que ayuda a capturar los requisitos funcionales del sistema. Este permite ver rápidamente la _funcionalidad_ del sistema como también los actores involucrados con una respectiva función.
+
+El principal elemento de los CU son lo actores los cuales representan modelos de los usuarios potenciales del sistema que realizan un intercambio de información. Estos actores se clasifican en:
+
+- _Actores Principales:_ Quien inicia un CU e interacción directamente con el sistema.
+
+- _Actores Secundarios:_ Encargados de mantener o supervisar el sistema.
+
+- _Actores Pasivos:_ son los interesados en el caso de uso.
+
+_Pasos para definir un CU_:
+
+1. Elegir los límites del sistema.
+
+2. Identificar actores principales.
+
+3. Identificar las tareas que realizan.
+
+4. Escribir los casos de uso.
+
+Existen una _relaciones_ entre casos de usos que juegan un papel importante en este diagrama:
+
+1. _Herencia_.
+
+2. _Inclusión_.
+
+3. _Extensión._
+
 ## RUP
 
 Proceso iterativo para el desarrollo del software que no cuenta con unos etapas firmementes establecidas, en cambio se cuenta con un conjunto de metodologías adaptables al contexto y las necesidades de la empresa. Es usado mayormente en sistemas orientados a objetos, en cualquiera de sus etapas. Surgió como una mezcla entre un proceso llamado *Rational Approach* y otro proceso llamado *Objectory*. La primera versión fue llamada *Rational Objectory Process*.
@@ -209,4 +239,44 @@ _Ventaja_
 
 - Se tiene una retroalimentación directa del cliente en cada iteración.
 
+## SCRUM
 
+Es una metodología ágil en donde su principal objetivo es controlar y planificar proyectos con constantes cambios y donde se maneja una gran incertidumbre. Surge en 1986 en un artículo llamado "The New Product Development Game" de Takeuchi y Nonaka.
+
+Las principales _características_ de esta metodología son:
+
+- _Transparencia:_ Todos los involucrados deben tener conocimientos generales de lo se hace en el proyecto.
+
+- _Inspección_ Se inspecciona frencuentemente el progreso para verificar que no se presente inconsistencias.
+
+- _Adaptación_  Se le da acogida al cambio.
+
+Los ciclos en SCRUM son llamados _sprints._ 
+
+Los artefactos involucrados en esta metodología son: _Product Backlog_ (Requerimientos del producto), _Sprint Backlog_ (Requerimientos de la iteración) y los _Incrementos_ (Añadidos que se realizan en cada sprint)
+
+Se cuentan con tres roles importantes: _Scrum Master_, _Dueño del producto_ y --_Equipo de desarrollo_
+
+_Desarrollo de la metodología_:
+
+- _Planificación del sprint_ y aquí se hace la selección de requisitos y la planificación del sprint.
+
+- _Ejecución del sprint_: se realiza una sincronización del trabajo realizando por parte del equipo de desarrollo.
+
+- _Inspección y adaptación:_  Se presenta los requisitos completados al cliente (_Revisión_) y se realiza un análisis acerca de la iteración que acaba de pasar (__Retrospectiva_)
+
+_Ventajas_:
+
+- Agiliza procesos.
+
+- Flexible al cambio.
+
+- Reducción del tiempo a producción.
+
+- Maximiza el retorno de la inversión.
+
+_Desventajas_:
+
+- Difícil implementación.
+
+- Camino corto no siempre conlleva a mayor calidad.
