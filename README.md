@@ -1,2 +1,2 @@
-# awesome_Ingsoftware
-Resumen de algunos métodos usados en la Ingeniería de Software
+# Resúmenes de diferentes materias
+Recopilación de resúmenes que he escrito con el fin de aprender mejor los temas propuestos por diferentes profesores en diferentes áreas de mi carrera.
